@@ -1,34 +1,31 @@
 {
-  "name": "eosjs-ios-browser-signature-provider-interface",
+  "name": "arisen-ios-browser-signature-provider-interface",
   "version": "0.1.1",
-  "description": "A Signature Provider Interface for communicating with an authenticator from iOS browsers using the EOSIO Authentication Transport Protocol Specification.",
+  "description": "A Signature Provider Interface for communicating with an authenticator from iOS browsers using the ARISEN Authentication Transport Protocol Specification.",
   "author": {
-    "name": "block.one",
-    "url": "https://block.one"
+    "name": "arisen",
+    "url": "https://arisen.network"
   },
   "contributors": [
-    "Brandon Fancher",
-    "Jeffrey Smith II",
-    "Ryan Wiesjahn",
-    "Randy Torres"
+    "shikhar srivastava"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/EOSIO/eosjs-ios-browser-signature-provider-interface#readme",
+  "homepage": "https://github.com/ARISENIO/arisen-ios-browser-signature-provider-interface#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EOSIO/eosjs-ios-browser-signature-provider-interface.git"
+    "url": "git+https://github.com/ARISENIO/arisen-ios-browser-signature-provider-interface.git"
   },
   "bugs": {
-    "url": "https://github.com/EOSIO/eosjs-ios-browser-signature-provider-interface/issues"
+    "url": "https://github.com/ARISENIO/arisen-ios-browser-signature-provider-interface/issues"
   },
   "keywords": [
     "signature",
     "provider",
     "interface",
     "bridge",
-    "eos",
-    "eosio",
-    "eosjs"
+    "rix",
+    "arisen",
+    "arisenjs"
   ],
   "main": "dist/index.js",
   "scripts": {
@@ -46,7 +43,7 @@
     "typescript": "^3.1.6"
   },
   "dependencies": {
-    "eosjs-signature-provider-interface": "^0.1.1",
+    "arisen-signature-provider-interface": "^0.0.1",
     "qs": "^6.5.2",
     "uuid": "^3.3.2"
   }
