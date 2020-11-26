@@ -1,7 +1,7 @@
 {
   "name": "arisen-ios-browser-signature-provider-interface",
-  "version": "0.1.1",
-  "description": "A Signature Provider Interface for communicating with an authenticator from iOS browsers using the ARISEN Authentication Transport Protocol Specification.",
+  "version": "1.0.0",
+  "description": "A signature provider that enables iOS applications to route signing requests to an iOS-based authenticator app.",
   "author": {
     "name": "arisen",
     "url": "https://arisen.network"
